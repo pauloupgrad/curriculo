@@ -29,10 +29,25 @@ header{
     padding-bottom: 20px;
     margin-bottom: 20px;
 }
+header .box_info{        
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    letter-spacing: 1.3px;
+}
+header .box_info span{
+    margin-bottom: 3px;
+}
+header .box_info i{
+    margin-right: 10px;
+}
 header .title_name{
     text-transform: uppercase;
     font-weight: 600;
-    color: #ff9f43; 
+    color: #ff9f43;
+    width: 100%; 
+    font-size: 45px;
+    text-align: center;
 }
 header a{
     color: #2980b9;
