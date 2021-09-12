@@ -139,7 +139,7 @@ footer a:hover{
 @media (max-width: 468px){
     .container{
         width: 90%;      
-        padding: 20px ;
+        padding: 10px ;
     }
     header .title_name{
         font-size: 25px;
@@ -147,6 +147,9 @@ footer a:hover{
     }
     footer a{
         font-size: 30px;       
+    }
+    fieldset{
+        padding: 10px;
     }
 
 }
