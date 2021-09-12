@@ -130,20 +130,15 @@ footer a:hover{
         width: 90%;      
         padding: 40px ;
     }
-    header .title_name{
-        font-size: 20px;
-        padding-bottom: 20px;
-    }
-
 }
-@media (max-width: 768px){
+@media (max-width: 550px){
     .container{
         width: 100%;      
         padding: 20px ;
         border: none;
     }
     header .title_name{
-        font-size: 25px;
+        font-size: 35px;
         padding-bottom: 20px;
     }
     footer a{
@@ -158,13 +153,19 @@ footer a:hover{
     }
 
 }
-@media (max-width: 359px){
-    .container{
-        width: 90%;      
-        padding: 20px ;
-    }
+@media (max-width: 434px){   
     header .title_name{
-        font-size: 25px;
+        font-size: 30px;
+        padding-bottom: 20px;
+    }
+    footer a{
+        font-size: 30px;       
+    }
+
+}
+@media (max-width: 360px){   
+    header .title_name{
+        font-size: 23px;
         padding-bottom: 20px;
     }
     footer a{
