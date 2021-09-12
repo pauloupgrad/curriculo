@@ -136,7 +136,7 @@ footer a:hover{
     }
 
 }
-@media (max-width: 468px){
+@media (max-width: 768px){
     .container{
         width: 100%;      
         padding: 20px ;
