@@ -39,7 +39,7 @@ header .box_info span{
     margin-bottom: 3px;
 }
 header .box_info i{
-    margin-right: 10px;
+    margin-right: 3px;
 }
 header .title_name{
     text-transform: uppercase;
@@ -51,6 +51,9 @@ header .title_name{
 }
 header a{
     color: #2980b9;
+}
+header .whats{
+    margin-left: 10px;
 }
 header a:hover{
     color: #64a4cf;
